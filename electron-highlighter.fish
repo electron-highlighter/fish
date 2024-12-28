@@ -5,10 +5,10 @@ set -l comment 506686
 set -l red ff5874
 set -l orange ff9e64
 set -l yellow ffd9af
-set -l green 34febb
+set -l green 58ffc7
 set -l blue 82aaff
-set -l purple c792ea
-set -l cyan 4ff2f8
+set -l purple d2a6ef
+set -l cyan 57f9ff
 set -l pink ff007c
 
 # Syntax Highlighting Colors
