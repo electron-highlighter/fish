@@ -1,9 +1,9 @@
 # Electron Highlighter Color Palette
 set -l foreground a8b5d1
-set -l selection 364A82
-set -l comment 506686
-set -l red ff5874
-set -l orange ff9e64
+set -l selection 283457
+set -l comment 7c8eac
+set -l red f7768e
+set -l orange ffbf7a
 set -l yellow ffd9af
 set -l green 58ffc7
 set -l blue 82aaff
@@ -32,4 +32,3 @@ set -g fish_pager_color_progress $comment
 set -g fish_pager_color_prefix $cyan
 set -g fish_pager_color_completion $foreground
 set -g fish_pager_color_description $comment
-
